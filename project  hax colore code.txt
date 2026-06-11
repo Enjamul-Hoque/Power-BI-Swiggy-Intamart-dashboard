@@ -1,0 +1,3 @@
+Red: #FC552F
+Plum: #871852
+Puple: #9D4170
