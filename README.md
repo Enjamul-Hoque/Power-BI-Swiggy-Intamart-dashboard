@@ -28,27 +28,21 @@ The business wanted a single dashboard to track sales, orders, ratings, shop per
 
 ## Key Insights
 
-* Samosa recorded the highest quantity sold (2,427 units).
-* Butter Chicken was the second most ordered item (2,044 units).
-* Chole Bhature and Masala Dosa also showed strong customer demand.
-* These items are the main contributors to overall order volume.
+* Fruits & Vegetables generated the highest sales (178.15K).
+* Snack Foods ranked second (175.43K).
+* Household products also contributed significantly (135.98K).
+
 
 ## Recommendations
 
-* Increase promotions for Samosa and Butter Chicken.
-* Ensure sufficient inventory for high-demand items.
-* Create combo offers using top-selling foods.
-  
+* Maintain sufficient inventory for top-selling categories.
+* Create promotional bundles for Fruits & Vegetables and Snack Foods.
 
 ## Dashboard Preview
 
 
 
-<img src="https://github.com/Enjamul-Hoque/Power-BI_Omato-Food-Delivery-Dashboard-/blob/92cdea90f16fa29c7dce168e60b286aa1945deb0/Omato%20_%20food_dashbord%20sreenshort.png" width="600">
 
-<br>
-Different desing dashboard
-<img src="https://github.com/Enjamul-Hoque/Power-BI_Omato-Food-Delivery-Dashboard-/blob/92cdea90f16fa29c7dce168e60b286aa1945deb0/Omat%20Dashboard%20Different%20Desing.png" width="600">
 
 <img src="https://github.com/Enjamul-Hoque/Power-BI-Swiggy-Intamart-dashboard/blob/a164e23c37e159d6332cf6af453f9ddcd7fd4df4/Dashboard%20Sreenshot%20.PNG" width="600">
 <br>
